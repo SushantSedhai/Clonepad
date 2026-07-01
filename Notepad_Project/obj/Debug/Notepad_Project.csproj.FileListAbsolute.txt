@@ -1,0 +1,10 @@
+C:\Users\sedha\source\repos\Notepad_Project_ns\Notepad_Project\bin\Debug\Notepad_Project.exe.config
+C:\Users\sedha\source\repos\Notepad_Project_ns\Notepad_Project\bin\Debug\Notepad_Project.exe
+C:\Users\sedha\source\repos\Notepad_Project_ns\Notepad_Project\bin\Debug\Notepad_Project.pdb
+C:\Users\sedha\source\repos\Notepad_Project_ns\Notepad_Project\obj\Debug\Notepad_Project.csproj.AssemblyReference.cache
+C:\Users\sedha\source\repos\Notepad_Project_ns\Notepad_Project\obj\Debug\Notepad_Project.Form1.resources
+C:\Users\sedha\source\repos\Notepad_Project_ns\Notepad_Project\obj\Debug\Notepad_Project.Properties.Resources.resources
+C:\Users\sedha\source\repos\Notepad_Project_ns\Notepad_Project\obj\Debug\Notepad_Project.csproj.GenerateResource.cache
+C:\Users\sedha\source\repos\Notepad_Project_ns\Notepad_Project\obj\Debug\Notepad_Project.csproj.CoreCompileInputs.cache
+C:\Users\sedha\source\repos\Notepad_Project_ns\Notepad_Project\obj\Debug\Notepad_Project.exe
+C:\Users\sedha\source\repos\Notepad_Project_ns\Notepad_Project\obj\Debug\Notepad_Project.pdb

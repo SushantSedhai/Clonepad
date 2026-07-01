@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sedha\\source\\repos\\Notepad_Project_ns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB7CF3C-A3F0-4F7B-9EF5-EB9B8544C1C9}|Notepad_Project\\Notepad_Project.csproj|c:\\users\\sedha\\source\\repos\\notepad_project_ns\\notepad_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFB7CF3C-A3F0-4F7B-9EF5-EB9B8544C1C9}|Notepad_Project\\Notepad_Project.csproj|solutionrelative:notepad_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sedha\\source\\repos\\Notepad_Project_ns\\Notepad_Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Notepad_Project\\Form1.cs",
+              "ToolTip": "C:\\Users\\sedha\\source\\repos\\Notepad_Project_ns\\Notepad_Project\\Form1.cs [Design]",
+              "RelativeToolTip": "Notepad_Project\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T13:53:36.862Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
